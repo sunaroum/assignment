@@ -1,4 +1,4 @@
-## (본인 이름)'s Assignment Submission Status
+## (김주경)'s Assignment Submission Status
 
 <br>
 
