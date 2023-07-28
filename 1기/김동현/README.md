@@ -2,9 +2,9 @@
 
 <br>
 
-| 주차 | 1주차 |
-| :---: | :---: |
-| 제출한 과제 수 | 6/6 | 
+| 주차 | 1주차 | 2주차 |
+| :---: | :---: | :---: |
+| 제출한 과제 수 | 6/6 | 3/3 |
 
 <br>
 
@@ -32,4 +32,30 @@ torch.Tensor의 다양한 메소드들을 알 수 있었다.
  
 
 <br>
+<br>
+
+<br>
+
+### 2주차
+
+| 과제 내용 | 과제 파일 링크 | 비고 |
+| :---: | :---: | :---: |
+| 데이터셋 전처리 (EDA) | [Link](https://github.com/sunaroum/assignment/blob/main/1%EA%B8%B0/%EA%B9%80%EB%8F%99%ED%98%84/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8%20%EA%B3%BC%EC%A0%9C.ipynb) |  |
+| 데이터셋 전처리 (Scaling) | [Link](https://github.com/sunaroum/assignment/blob/main/1%EA%B8%B0/%EA%B9%80%EB%8F%99%ED%98%84/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8%20%EA%B3%BC%EC%A0%9C.ipynb) |  |
+| 데이터셋 전처리 (Feature Selection) | [Link](https://github.com/sunaroum/assignment/blob/main/1%EA%B8%B0/%EA%B9%80%EB%8F%99%ED%98%84/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8%20%EA%B3%BC%EC%A0%9C.ipynb) |  |
+<br>
+
+<b> 과제를 하면서 참고한 것들 </b> :
+
+* Mutual Information : https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mutual_info_score.html
+
+<br>
+
+<b> 과제를 하면서 느낀 것 </b> :
+배웠던 것들을 실제로 적용해보면서 신기함을 느꼈다
+ 
+
+<br>
+<br>
+
 <br>
